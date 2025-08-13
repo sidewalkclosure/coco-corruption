@@ -1,4 +1,5 @@
 # coco-corruption
+Detectors are only as good as the data they train on and ​real-world datasets contain various noise.
 
 ### Misclassified Labels​
 Randomly reassign 10%, 20% 40%, 60% and 80% of object labels to incorrect categories​.
